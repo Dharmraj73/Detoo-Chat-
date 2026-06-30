@@ -1,4 +1,4 @@
-lib/main.dart# Detoo Chat App 🇮🇳
+Detoo Chat App 🇮🇳
 
 WhatsApp jaisa chatting app — 1-on-1 chat, group chat, photo/file sharing, aur voice/video calling. India ke liye banaya gaya (+91 phone login, Hindi text).
 
